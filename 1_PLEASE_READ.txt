@@ -1,0 +1,3 @@
+NOTE: The Python program 'ProductInventory.py' comes with a csv file bearing the same prefix for demonstration purposes. 
+The csv file contains entirely fictitious data.
+
