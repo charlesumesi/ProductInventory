@@ -1,10 +1,9 @@
-'''A program that enables selection of products for purchase and updates their stock levels'''
-
 # -*- coding: utf-8 -*-
 """
 Created on 3 March 2020; re-coded 6 July 2020
-
-@author: Charles Umesi
+Name: ProductInventory.py
+Purpose: Enables selection of products for purchase and updates their stock levels
+@author: Charles Umesi (charlesumesi)
 """
 
 from abc import ABC, abstractmethod
