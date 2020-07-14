@@ -1,5 +1,5 @@
 # ProductInventory
-A Python program that enables selection of products for purchase and updates their stock levels
+A Python module that enables selection of products for purchase and updates their stock levels
 ```python
 from abc import ABC, abstractmethod
 import os
