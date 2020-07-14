@@ -18,7 +18,7 @@ pd.options.mode.chained_assignment = None  # default='warn'
 # You may want to enable (i.e., hashtag) chained_assignment until you are comfortable with your data
 
 
-'''This program has classes, abstract classes and subclasses'''
+'''This module has classes, abstract classes and subclasses'''
 
 class Product:
     
